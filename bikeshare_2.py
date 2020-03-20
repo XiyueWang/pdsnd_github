@@ -25,7 +25,7 @@ def get_filters():
             print('You would like to look at the data from {}!\n'.format(city))
             break
         else:
-            print('\nPlease enter Chicago, New York City or Washington!')
+            print('\nPlease enter a valid city!')
             continue
     # get user input for month (all, january, february, ... , june)
     # get user input for day of week (all, monday, tuesday, ... sunday)
@@ -214,7 +214,7 @@ def user_stats(df):
     Attention: Chicago and New York City data contain gender and birth year infomation.
                Washington data does not contain gender and birth year information.
     Returns:
-        Break down data of gender, birth year for filtered df.
+        Break down data of gender, birth year for filtered df if possible.
     """
 
     print('\nCalculating User Stats...\n')
