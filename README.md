@@ -19,3 +19,7 @@ The project will explore:
 
 ### Requirement
 This program requires `python3` and `pandas`.
+
+### Resources
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.to_datetime.html
+https://www.geeksforgeeks.org/python-convert-string-to-datetime-and-vice-versa/
