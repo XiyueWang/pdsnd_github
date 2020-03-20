@@ -214,7 +214,7 @@ def user_stats(df):
     Attention: Chicago and New York City data contain gender and birth year infomation.
                Washington data does not contain gender and birth year information.
     Returns:
-        Break down data of gender, birth year for filtered df.
+        Break down data of gender, birth year for filtered df if possible.
     """
 
     print('\nCalculating User Stats...\n')
