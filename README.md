@@ -1,5 +1,5 @@
 ## **Bikeshare Project**
-_by **DrPenguin**_
+_by **DrPenguinW**_
 
 ### Project Overview
 Bike-sharing systems have been growing in number and popularity across the world.This project explores data (provided by **Motivate**) related to bike share systems for three major cities in the United States —  Chicago, New York City, and Washington. This project will provide an interactive experience, allowing users to filter specific dataset they want to investigated.
