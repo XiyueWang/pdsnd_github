@@ -17,5 +17,5 @@ The project will explore:
   * new_york_city.csv
   * washington.csv
 
-### Quickstart
+### Requirement
 This program requires `python3` and `pandas`.
