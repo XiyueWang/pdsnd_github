@@ -25,7 +25,7 @@ def get_filters():
             print('You would like to look at the data from {}!\n'.format(city))
             break
         else:
-            print('\nPlease enter Chicago, New York City or Washington!')
+            print('\nPlease enter a valid city!')
             continue
     # get user input for month (all, january, february, ... , june)
     # get user input for day of week (all, monday, tuesday, ... sunday)
